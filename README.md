@@ -40,7 +40,7 @@ It can be safely concluded that the execution time of AllStocksAnalysisRefactore
 
 ## Summary
 
-### Advantages or disadvantages of refactoring code
+### Advantages and disadvantages of refactoring code
 
 Refcatoring the code can greatly reduce the execution time. Secondly, it also makes the code cleaner and easier to read. Clean code is easy to update and improve. It is also very easy to scale if the need for alteration arises. For instance, if we needed to add more stocks to our data, that can easily be done. 
 
