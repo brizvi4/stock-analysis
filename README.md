@@ -1,4 +1,4 @@
-# Analysis of Green Stocks
+# Analysis of Green Stocks and Execution times
 
 ## Overview of Project
 
